@@ -54,7 +54,7 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
-  url: [css/images/home-bg.jpg, css/images/sample.jpg, https://source.unsplash.com/collection/954550/1920x1080]
+  url: [css/images/home-bg.jpg, css/images/photo_1587471516_285592c1e1cebaa8f62310134a3da29c20200421211829.jpg, https://source.unsplash.com/collection/954550/1920x1080]
 ```
 
 There are 3 modes to select: 
